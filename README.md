@@ -21,7 +21,7 @@ I actively work with:
 - Observability (Sentry, PostHog)
 - Edge & performance (Cloudflare)
 - Real-time systems (SSE, WebSockets, Pusher)
-- Payment infrastructure (Paystack)
+- Payment infrastructures
 
 I’m comfortable owning features **from architecture → development → deployment**.
 I don't just build features, I design systems that handle failure, scale, and real user behavior.
